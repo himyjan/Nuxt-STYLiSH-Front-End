@@ -1,0 +1,18 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@magister_zito/vue3-styled-components": "^2.0.0",
+    "@vueuse/core": "10.4.1",
+    "@vueuse/router": "10.4.1"
+  },
+  "devDependencies": {
+    "nuxt": "^3.7.3"
+  }
+}
