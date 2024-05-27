@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@magister_zito/vue3-styled-components": "^2.0.0",
-    "@vueuse/core": "10.9.0",
+    "@vueuse/core": "10.10.0",
     "@vueuse/router": "10.9.0"
   },
   "devDependencies": {
