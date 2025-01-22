@@ -9,8 +9,8 @@
   },
   "dependencies": {
     "@magister_zito/vue3-styled-components": "^2.0.0",
-    "@vueuse/core": "12.4.0",
-    "@vueuse/router": "12.4.0"
+    "@vueuse/core": "12.5.0",
+    "@vueuse/router": "12.5.0"
   },
   "devDependencies": {
     "nuxt": "^3.9.3"
