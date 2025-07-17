@@ -13,6 +13,6 @@
     "@vueuse/router": "13.4.0"
   },
   "devDependencies": {
-    "nuxt": "^3.9.3"
+    "nuxt": "^4.0.0"
   }
 }
